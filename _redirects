@@ -1,0 +1,2 @@
+/blog    https://chancecrump.dev/blog/         301
+/blog/*  https://chancecrump.dev/blog/:splat  301

@@ -1,0 +1,12 @@
+{
+  "name": "Chance IT Studio",
+  "short_name": "CIT Studio",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f4f4f0",
+  "theme_color": "#fbf6e9",
+  "icons": [
+    { "src": "/img/favicon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
