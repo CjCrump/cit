@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Computer Repair in Cottage Hills, IL | Flat Prices | Chance IT Studio</title>
+<meta name="description" content="Flat-price computer repair, virus removal, data transfer, and custom PC builds. Drop-off, remote, or on-site across the Riverbend and Metro East.">
+<link rel="canonical" href="https://chanceitstudio.com/computer-repair/">
+<meta name="theme-color" content="#fbf6e9">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chance IT Studio">
+<meta property="og:title" content="Computer Repair in Cottage Hills, IL">
+<meta property="og:description" content="Flat-price computer repair, virus removal, data transfer, and custom PC builds. Drop-off, remote, or on-site across the Riverbend and Metro East.">
+<meta property="og:url" content="https://chanceitstudio.com/computer-repair/">
+<meta property="og:image" content="https://chanceitstudio.com/img/og-banner.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="../img/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../img/apple-touch-icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bangers&family=Archivo:wght@900&family=DM+Sans:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-head">
+  <div class="bar">
+    <a class="logo" href="/" aria-label="Chance IT Studio home">C<b>[</b>IT<b>]</b></a>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <a href="/websites/">Websites</a>
+      <a href="/computer-repair/" aria-current="page">Computer Repair</a>
+      <a href="/custom-software/">Custom Software</a>
+      <a href="/pricing/">Pricing</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+    <div class="head-actions">
+      <a class="btn sm" href="tel:+16189468844">Call <span class="long">or text</span></a>
+      <button class="menu-btn" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <section class="pagehead orange dots-lite">
+    <div class="burst"><span><small>from</small>$50</span></div>
+    <h1>Computer busted? Drop it off.</h1>
+    <p>Desktops, laptops, and Macs. Flat prices posted below, so you know the cost before I touch it.</p>
+    <div class="row"><a class="btn" href="tel:+16189468844">Book a drop-off</a><a class="btn alt" href="#prices">See prices</a></div>
+  </section>
+
+  <section class="sec" aria-labelledby="ways-title">
+    <h2 class="sec-title" id="ways-title">Three ways to get it fixed</h2>
+    <div class="ways">
+      <div class="way drop"><h4>Drop it off</h4><p>Book a time, bring it by. Cheapest and fastest.</p><span class="fee free">No trip fee</span></div>
+      <div class="way"><h4>Remote</h4><p>Software problems fixed over a secure remote session.</p><span class="fee free">No trip fee</span></div>
+      <div class="way"><h4>I come to you</h4><p>Home or office, anywhere in my service area.</p><span class="fee">+$50 trip fee</span></div>
+    </div>
+  </section>
+
+  <section class="sec" id="prices" aria-labelledby="price-title">
+    <span class="caption" id="price-title">Flat prices</span>
+    <div class="pricelist">
+      <table>
+        <thead><tr><th scope="col">Service</th><th scope="col">Price</th></tr></thead>
+        <tbody>
+          <tr><td>Diagnostic<small>Free if you go ahead with the repair</small></td><td>$50</td></tr>
+          <tr><td>Virus removal or Windows repair<small>Cleaned up and running right again</small></td><td>$120</td></tr>
+          <tr><td>Data backup or transfer<small>Photos and files moved to a new computer or drive</small></td><td>$80</td></tr>
+          <tr><td>New computer setup<small>Updates, accounts, and your programs installed</small></td><td>$60</td></tr>
+          <tr><td>Tune-up<small>For a computer that has gotten slow</small></td><td>$60</td></tr>
+          <tr><td>Hardware install<small>New drive, more memory, and similar upgrades</small></td><td>$50 + parts</td></tr>
+          <tr><td>Home or office Wi-Fi setup</td><td>$80</td></tr>
+          <tr><td>Custom PC build</td><td>$150 + parts</td></tr>
+          <tr class="fee"><td>On-site visit<small>Added to any job when I come to you</small></td><td>+$50</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="band ink" aria-labelledby="build-title">
+    <div class="band-in build">
+      <div>
+        <h2 class="sec-title" id="build-title">Custom PC builds</h2>
+        <p>Tell me your budget and what it's for: gaming, work, or a home server. I pick the parts, build it, and test it before you take it home.</p>
+        <a class="btn" href="tel:+16189468844">Plan a build</a>
+      </div>
+      <div class="burst big"><span><small>build</small>$150<small>+ parts</small></span></div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="work-title">
+    <h2 class="sec-title" id="work-title">What I work on</h2>
+    <ul class="checks cols2">
+      <li>Windows desktops and laptops</li>
+      <li>Macs: software, drives, and memory</li>
+      <li>Slow, infected, or won't-turn-on computers</li>
+      <li>Moving everything to a new computer</li>
+      <li>Home and small office Wi-Fi</li>
+      <li>Parts upgrades and new builds</li>
+    </ul>
+  </section>
+
+  <section class="cta" aria-labelledby="cta-title">
+    <div>
+      <h2 id="cta-title">Shoot me a text. <b>Same-day reply.</b></h2>
+      <a class="num" href="sms:+16189468844">(618) 946-8844</a>
+    </div>
+    <a class="btn" href="tel:+16189468844">Call or text</a>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <div class="cols">
+    <div>
+      <a class="logo" href="/" aria-label="Chance IT Studio home">C<b>[</b>IT<b>]</b></a>
+      <p style="margin-top:12px">Websites, computer repair, and custom software.<br>Based in Cottage Hills, IL.</p>
+      <p style="margin-top:12px"><a href="tel:+16189468844"><b>(618) 946-8844</b></a><br><a href="mailto:chance@chanceitstudio.com">chance@chanceitstudio.com</a></p>
+    </div>
+    <div>
+      <h4>Hours</h4>
+      <dl class="hours">
+        <dt>Mon, Tue</dt><dd>4 to 8 pm</dd>
+        <dt>Wed</dt><dd>Closed</dd>
+        <dt>Thu, Fri</dt><dd>4 to 8 pm</dd>
+        <dt>Sat</dt><dd>8 am to 8 pm</dd>
+        <dt>Sun</dt><dd>Closed</dd>
+      </dl>
+      <p class="note" style="margin-top:8px">Drop-offs by appointment.</p>
+    </div>
+    <div>
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="/websites/">Websites</a></li>
+        <li><a href="/computer-repair/">Computer Repair</a></li>
+        <li><a href="/custom-software/">Custom Software</a></li>
+        <li><a href="/ai-consulting/">AI Consulting</a></li>
+        <li><a href="/pricing/">Pricing</a></li>
+        <li><a href="/service-area/">Service Area</a></li>
+        <li><a href="https://www.facebook.com/ChanceITstudio/" rel="noopener">Facebook</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="legal">&copy; <span id="year">2026</span> Chance IT Studio LLC. Built in Illinois.</div>
+</footer>
+
+<script src="../js/main.js" defer></script>
+</body>
+</html>

@@ -16,15 +16,15 @@
 <meta property="og:image" content="https://chanceitstudio.com/img/og-banner.png">
 <meta name="twitter:card" content="summary_large_image">
 
-<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32.png">
-<link rel="icon" type="image/png" sizes="512x512" href="/img/favicon.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="img/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bangers&family=Archivo:wght@900&family=DM+Sans:wght@400;500;700&display=swap">
-<link rel="preload" as="image" href="/img/hero.webp" type="image/webp">
-<link rel="stylesheet" href="/css/styles.css">
+<link rel="preload" as="image" href="img/hero.webp" type="image/webp">
+<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -63,16 +63,16 @@
     <div class="art">
       <div class="bubble" aria-hidden="true">Need a website or computer repair? I'm your guy.</div>
       <picture>
-        <source srcset="/img/hero.webp" type="image/webp">
-        <img src="/img/hero.jpg" alt="Comic illustration of Chance Crump at a laptop with the C[IT] logo" width="1000" height="1000" fetchpriority="high">
+        <source srcset="img/hero.webp" type="image/webp">
+        <img src="img/hero.jpg" alt="Comic illustration of Chance Crump at a laptop with the C[IT] logo" width="1000" height="1000" fetchpriority="high">
       </picture>
     </div>
   </section>
 
-  <!-- SERVICES -->
+  <!-- SERVICES: comic page -->
   <section class="sec" aria-labelledby="svc-title">
     <span class="caption" id="svc-title">What I do</span>
-    <div class="services">
+    <div class="comic">
       <article class="svc web dots-lite">
         <div class="burst"><span><small>from</small>$400</span></div>
         <h3>Websites that make the phone ring</h3>
@@ -80,40 +80,41 @@
         <ul><li>One-page site, $400</li><li>Up to 5 pages, $1,000</li><li>Hosting and upkeep, $35/mo</li></ul>
         <a class="btn yellow" href="/websites/">Get a website</a>
       </article>
-      <article class="svc fix">
+      <article class="svc fix dots-lite">
         <div class="burst"><span><small>from</small>$50</span></div>
         <h3>Computer repair and builds</h3>
         <p>Slow, infected, dead, or brand new. PCs and Macs, plus custom builds.</p>
-        <a class="btn alt" href="/computer-repair/">See repair prices</a>
+        <a class="btn alt" href="/computer-repair/">Repair prices</a>
       </article>
-      <div class="lower">
-        <article class="svc code">
-          <h3>Custom apps</h3>
-          <p>Software built around how your shop already runs. MVPs from $2,500.</p>
-          <a class="btn alt sm" href="/custom-software/">Learn more</a>
-        </article>
-        <article class="svc ai">
-          <h3>AI in your workflow</h3>
-          <p>Where AI saves you real hours, and where it doesn't. Sessions from $250.</p>
-          <a class="btn alt sm" href="/ai-consulting/">Learn more</a>
-        </article>
-      </div>
+      <article class="svc code">
+        <h3>Custom apps</h3>
+        <p>Software built around how your shop already runs. MVPs from $2,500.</p>
+        <a class="btn alt sm" href="/custom-software/">Learn more</a>
+      </article>
+      <article class="svc ai dots-lite">
+        <h3>AI in your workflow</h3>
+        <p>Where AI saves you real hours, and where it doesn't. Sessions from $250.</p>
+        <a class="btn alt sm" href="/ai-consulting/">Learn more</a>
+      </article>
     </div>
   </section>
 
-  <!-- REPAIR WAYS -->
-  <section class="sec" aria-labelledby="ways-title">
-    <span class="caption" id="ways-title">Three ways to get it fixed</span>
-    <div class="ways">
-      <div class="way drop"><h4>Drop it off</h4><p>Book a time, bring it by. Cheapest and fastest.</p><span class="fee free">No trip fee</span></div>
-      <div class="way"><h4>Remote</h4><p>Software problems fixed over a secure remote session.</p><span class="fee free">No trip fee</span></div>
-      <div class="way"><h4>I come to you</h4><p>Home or office, anywhere in my service area.</p><span class="fee">+$50 trip fee</span></div>
+  <!-- REPAIR WAYS: full-bleed band -->
+  <section class="band orange dots" aria-labelledby="ways-title">
+    <div class="band-in">
+      <h2 class="sec-title" id="ways-title">Three ways to get it fixed</h2>
+      <div class="ways">
+        <div class="way drop"><h4>Drop it off</h4><p>Book a time, bring it by. Cheapest and fastest.</p><span class="fee free">No trip fee</span></div>
+        <div class="way"><h4>Remote</h4><p>Software problems fixed over a secure remote session.</p><span class="fee free">No trip fee</span></div>
+        <div class="way"><h4>I come to you</h4><p>Home or office, anywhere in my service area.</p><span class="fee">+$50 trip fee</span></div>
+      </div>
+      <a class="btn alt" href="/computer-repair/">See every repair price</a>
     </div>
   </section>
 
   <!-- CASE FILES -->
   <section class="sec" aria-labelledby="cases-title">
-    <span class="caption" id="cases-title">Case files</span>
+    <h2 class="sec-title" id="cases-title">Case files</h2>
     <div class="cases">
       <article class="case"><span class="tab">Case file 01</span><div class="in">
         <h4>Twin Rivers Concrete</h4>
@@ -125,18 +126,18 @@
         <span class="stamp">Solved</span></div></article>
       <article class="case"><span class="tab">Case file 03</span><div class="in">
         <h4>TCMVP</h4>
-        <dl><dt>Problem</dt><dd>A transaction coordinator and solo agent jumping through a different hoop for every deal.</dd><dt>Fix</dt><dd>One place for every transaction, split by team. Drag in the contract, deadlines get read out automatically, and the team gets email updates. No more cracks for a deadline to fall through.</dd></dl>
+        <dl><dt>Problem</dt><dd>A transaction coordinator and solo agent jumping through a different hoop for every deal.</dd><dt>Fix</dt><dd>Every contract in one organized place. Deadlines get emailed to the right team automatically. No more missed deadlines.</dd></dl>
         <span class="stamp">Solved</span></div></article>
     </div>
   </section>
 
   <!-- ABOUT TEASER -->
   <section class="about" aria-labelledby="about-title">
-    <div class="badge"><span class="logo" aria-hidden="true">C<b>[</b>IT<b>]</b></span></div>
+    <blockquote class="say">I swapped my first GPU at 14 and never stopped taking things apart.</blockquote>
     <div>
       <h2 id="about-title">Who's behind it</h2>
-      <p>I'm Chance. I swapped my first GPU at 14 and never stopped taking things apart. By day I'm a journeyman laborer, so I know what a lost workday costs you.</p>
-      <p>You get one guy, one number, and a flat price before I start. I finish what I start. <a href="/about/">More about me</a></p>
+      <p>I'm Chance. By day I'm a journeyman laborer, so I know what a lost workday costs you. You get one guy, one number, and a flat price before I start. I finish what I start.</p>
+      <p><a href="/about/">More about me</a></p>
     </div>
   </section>
 
@@ -193,6 +194,6 @@
   <div class="legal">&copy; <span id="year">2026</span> Chance IT Studio LLC. Built in Illinois.</div>
 </footer>
 
-<script src="/js/main.js" defer></script>
+<script src="js/main.js" defer></script>
 </body>
 </html>
