@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Small Business Websites in Cottage Hills, IL | Chance IT Studio</title>
+<meta name="description" content="Hand-built small business websites from $400, hosting and upkeep for $35 a month. Local to Cottage Hills, serving the Riverbend, Metro East, and St. Louis.">
+<link rel="canonical" href="https://chanceitstudio.com/websites/">
+<meta name="theme-color" content="#fbf6e9">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chance IT Studio">
+<meta property="og:title" content="Small Business Websites in Cottage Hills, IL">
+<meta property="og:description" content="Hand-built small business websites from $400, hosting and upkeep for $35 a month. Local to Cottage Hills, serving the Riverbend, Metro East, and St. Louis.">
+<meta property="og:url" content="https://chanceitstudio.com/websites/">
+<meta property="og:image" content="https://chanceitstudio.com/img/og-banner.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="../img/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../img/apple-touch-icon.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bangers&family=Archivo:wght@900&family=DM+Sans:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-head">
+  <div class="bar">
+    <a class="logo" href="/" aria-label="Chance IT Studio home">C<b>[</b>IT<b>]</b></a>
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <a href="/websites/" aria-current="page">Websites</a>
+      <a href="/computer-repair/">Computer Repair</a>
+      <a href="/custom-software/">Custom Software</a>
+      <a href="/pricing/">Pricing</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+    <div class="head-actions">
+      <a class="btn sm" href="tel:+16189468844">Call <span class="long">or text</span></a>
+      <button class="menu-btn" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <section class="pagehead green dots-lite">
+    <div class="burst"><span><small>from</small>$400</span></div>
+    <h1>Websites that make the phone ring</h1>
+    <p>Hand-built, fast on phones, and yours to keep. One flat price, and you own it outright.</p>
+    <div class="row"><a class="btn yellow" href="tel:+16189468844">Call or text about a site</a></div>
+  </section>
+
+  <section class="sec" aria-labelledby="size-title">
+    <span class="caption" id="size-title">Pick your size</span>
+    <div class="tiers">
+      <article class="tier feat">
+        <h3>One-page site</h3>
+        <div class="price">$400</div>
+        <ul><li>Everything on one scrolling page</li><li>Looks right on phones and desktops</li><li>Tap-to-call and text buttons</li><li>Photo gallery of your work</li><li>You own it outright</li></ul>
+        <a class="btn" href="tel:+16189468844">Start here</a>
+      </article>
+      <article class="tier">
+        <h3>Business site</h3>
+        <div class="price">$1,000 <small>up to 5 pages</small></div>
+        <ul><li>Home, services, gallery, about, contact</li><li>A page for each main service</li><li>Contact form that lands in your email</li><li>Set up so Google can find every page</li></ul>
+        <a class="btn alt" href="tel:+16189468844">Ask about it</a>
+      </article>
+      <article class="tier">
+        <h3>Extra page</h3>
+        <div class="price">$150</div>
+        <ul><li>Add a page anytime</li><li>New service, new location, a menu, whatever you need</li></ul>
+        <p class="note">Already have a site that needs redoing? Same price as a new build.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="band cyan dots" aria-labelledby="host-title">
+    <div class="band-in">
+      <h2 class="sec-title" id="host-title">I keep it running</h2>
+      <div class="split">
+        <div class="panel">
+          <div class="price">$35/mo <small>or $400/yr</small></div>
+          <ul class="checks">
+            <li>Hosting and your secure https lock</li>
+            <li>Updates and backups</li>
+            <li>Small text and photo changes</li>
+            <li>I watch it so it stays up</li>
+          </ul>
+        </div>
+        <div class="panel yellow">
+          <h3>No time to update it?</h3>
+          <p>Keep posting to Facebook like you already do. Tag me in the post, and I move the new photos and news onto your site.</p>
+          <div class="fb-bubble">Post it. Tag me. It's on your site.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" aria-labelledby="how-title">
+    <h2 class="sec-title" id="how-title">How a site gets built</h2>
+    <ol class="steps">
+      <li class="step"><b>1</b><h4>Free call</h4><p>Tell me about your business and what the site needs to do.</p></li>
+      <li class="step"><b>2</b><h4>Flat quote</h4><p>One price in writing before I start. No surprise bills.</p></li>
+      <li class="step"><b>3</b><h4>I build it</h4><p>You get a working link to click through as it comes together.</p></li>
+      <li class="step"><b>4</b><h4>Launch</h4><p>It goes live on your domain, and I stay reachable after.</p></li>
+    </ol>
+  </section>
+
+  <section class="feature-case" aria-labelledby="case-title">
+    <article class="case"><span class="tab">Case file 01</span><div class="in">
+      <h4 id="case-title">Twin Rivers Concrete</h4>
+      <dl><dt>Problem</dt><dd>No time to keep the site updated, and it looked good on a desktop but broke on phones.</dd><dt>Fix</dt><dd>A one-page site with a work gallery that stays fresh. I handle upkeep and pull new content from their Facebook. They just tag me in the post.</dd></dl>
+      <span class="stamp">Solved</span></div></article>
+    <div class="say">Your customers are on their phones. Your site should work there first.</div>
+  </section>
+
+  <section class="cta" aria-labelledby="cta-title">
+    <div>
+      <h2 id="cta-title">Shoot me a text. <b>Same-day reply.</b></h2>
+      <a class="num" href="sms:+16189468844">(618) 946-8844</a>
+    </div>
+    <a class="btn" href="tel:+16189468844">Call or text</a>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <div class="cols">
+    <div>
+      <a class="logo" href="/" aria-label="Chance IT Studio home">C<b>[</b>IT<b>]</b></a>
+      <p style="margin-top:12px">Websites, computer repair, and custom software.<br>Based in Cottage Hills, IL.</p>
+      <p style="margin-top:12px"><a href="tel:+16189468844"><b>(618) 946-8844</b></a><br><a href="mailto:chance@chanceitstudio.com">chance@chanceitstudio.com</a></p>
+    </div>
+    <div>
+      <h4>Hours</h4>
+      <dl class="hours">
+        <dt>Mon, Tue</dt><dd>4 to 8 pm</dd>
+        <dt>Wed</dt><dd>Closed</dd>
+        <dt>Thu, Fri</dt><dd>4 to 8 pm</dd>
+        <dt>Sat</dt><dd>8 am to 8 pm</dd>
+        <dt>Sun</dt><dd>Closed</dd>
+      </dl>
+      <p class="note" style="margin-top:8px">Drop-offs by appointment.</p>
+    </div>
+    <div>
+      <h4>Pages</h4>
+      <ul>
+        <li><a href="/websites/">Websites</a></li>
+        <li><a href="/computer-repair/">Computer Repair</a></li>
+        <li><a href="/custom-software/">Custom Software</a></li>
+        <li><a href="/ai-consulting/">AI Consulting</a></li>
+        <li><a href="/pricing/">Pricing</a></li>
+        <li><a href="/service-area/">Service Area</a></li>
+        <li><a href="https://www.facebook.com/ChanceITstudio/" rel="noopener">Facebook</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="legal">&copy; <span id="year">2026</span> Chance IT Studio LLC. Built in Illinois.</div>
+</footer>
+
+<script src="../js/main.js" defer></script>
+</body>
+</html>
