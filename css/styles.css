@@ -282,4 +282,46 @@ ol.steps{list-style:none;margin:0;padding:0}
 .checks.cols2{display:grid;grid-template-columns:1fr 1fr;gap:12px 32px}
 @media (max-width:600px){.checks.cols2{grid-template-columns:1fr}}
 
+.pagehead.yellow-head{background:var(--yellow)}
+.cases.two{grid-template-columns:repeat(2,1fr)}
+@media (max-width:760px){.cases.two{grid-template-columns:1fr}}
+/* ---------- Service area ---------- */
+.areas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+@media (max-width:860px){.areas{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.areas{grid-template-columns:1fr}}
+.area-card{background:#fff;border:var(--line);padding:18px 20px;display:flex;flex-direction:column;gap:6px}
+.area-card:nth-child(3n+1){box-shadow:4px 4px 0 var(--green)}
+.area-card:nth-child(3n+2){box-shadow:4px 4px 0 var(--orange)}
+.area-card:nth-child(3n){box-shadow:4px 4px 0 var(--cyan)}
+.area-card h3{font-family:var(--display);font-size:28px;letter-spacing:.02em;line-height:1}
+.area-card p{font-size:15px}
+
+/* ---------- About page ---------- */
+.about-hero{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:40px;align-items:center;margin-top:22px}
+.about-art{border:var(--line);box-shadow:var(--pop);background:var(--ink);transform:rotate(-1.5deg)}
+.about-copy{display:flex;flex-direction:column;gap:14px}
+.about-copy h1{font-size:clamp(52px,7vw,84px)}
+.case .in>p{font-size:15px}
+.hours.big{font-size:18px;gap:8px 20px}
+@media (max-width:760px){.about-hero{grid-template-columns:1fr}}
+
+/* ---------- Contact ---------- */
+.contact-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:28px;align-items:start}
+@media (max-width:860px){.contact-grid{grid-template-columns:1fr}}
+.contact-card{box-shadow:var(--pop);gap:16px}
+.big-num{font-family:var(--display);font-size:clamp(34px,3.6vw,48px);white-space:nowrap;letter-spacing:.03em;line-height:1;text-decoration:none}
+.contact-form{box-shadow:var(--pop);gap:8px}
+.contact-form label{font-weight:700;font-size:14px;letter-spacing:.06em;text-transform:uppercase;margin-top:8px}
+.contact-form input,.contact-form select,.contact-form textarea{font:inherit;font-size:17px;padding:12px 14px;border:var(--line);background:var(--paper);color:var(--ink);border-radius:0;width:100%}
+.contact-form textarea{resize:vertical}
+.contact-form .btn{margin-top:14px;align-self:flex-start}
+.contact-form .btn[disabled]{opacity:.6;cursor:wait}
+.hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
+.form-status{min-height:1.5em;font-weight:700}
+.form-status.ok{color:var(--green)}
+.form-status.err{color:#b3261e}
+
+/* ---------- 404 ---------- */
+.pagehead.nf .burst span{font-size:34px}
+
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.case{transition:none}}
