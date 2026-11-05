@@ -49,6 +49,9 @@ main.wrap{padding-block:28px 72px}
 .logo{font-family:var(--logo);font-weight:900;font-size:30px;letter-spacing:-.01em;line-height:1;display:inline-flex;align-items:center;gap:.08em;color:var(--ink);text-decoration:none}
 .logo b{color:var(--green);font-weight:900}
 
+.more-price{text-align:right;margin:16px 0 0;font-weight:700;max-width:none}
+.split .more-price{grid-column:1/-1;margin:0}
+
 /* ---------- Header ---------- */
 .site-head{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:var(--line)}
 .site-head .bar{max-width:var(--maxw);margin:0 auto;padding:12px 16px;display:flex;align-items:center;justify-content:space-between;gap:16px}
@@ -85,6 +88,7 @@ main.wrap{padding-block:28px 72px}
 .sec{display:flex;flex-direction:column;gap:22px}
 .caption{display:inline-block;align-self:flex-start;background:var(--yellow);color:var(--ink);border:var(--line);box-shadow:var(--pop-sm);padding:6px 12px;font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;transform:rotate(-1.2deg)}
 .sec-title{font-family:var(--display);font-size:clamp(36px,5vw,56px);line-height:.95;letter-spacing:.02em}
+.sec-title{scroll-margin-top:90px}
 .note{font-size:15px;color:var(--ink2)}
 
 /* ---------- Speech bubble ---------- */
