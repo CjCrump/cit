@@ -1,19 +1,28 @@
 // Chance IT Studio  |  main.js
-// Mobile menu, footer year, and the contact form (Web3Forms).
+// Site menu, footer year, and the contact form (Web3Forms).
 (function () {
   var head = document.querySelector('.site-head');
   var btn = document.querySelector('.menu-btn');
   if (head && btn) {
+    var menu = document.getElementById('site-menu');
+    var closeMenu = function (refocus) {
+      head.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      if (refocus) btn.focus();
+    };
     btn.addEventListener('click', function () {
       var open = head.classList.toggle('open');
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open && menu) { var first = menu.querySelector('a'); if (first) first.focus(); }
     });
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape' && head.classList.contains('open')) {
-        head.classList.remove('open');
-        btn.setAttribute('aria-expanded', 'false');
-        btn.focus();
-      }
+      if (e.key === 'Escape' && head.classList.contains('open')) closeMenu(true);
+    });
+    document.addEventListener('click', function (e) {
+      if (head.classList.contains('open') && !head.contains(e.target)) closeMenu(false);
+    });
+    if (menu) menu.addEventListener('click', function (e) {
+      if (e.target.closest('a')) closeMenu(false);
     });
   }
 
