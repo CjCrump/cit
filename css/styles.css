@@ -88,7 +88,7 @@ main.wrap{padding-block:28px 72px}
 .sec{display:flex;flex-direction:column;gap:22px}
 .caption{display:inline-block;align-self:flex-start;background:var(--yellow);color:var(--ink);border:var(--line);box-shadow:var(--pop-sm);padding:6px 12px;font-weight:700;font-size:13px;letter-spacing:.12em;text-transform:uppercase;transform:rotate(-1.2deg)}
 .sec-title{font-family:var(--display);font-size:clamp(36px,5vw,56px);line-height:.95;letter-spacing:.02em}
-.sec-title{scroll-margin-top:90px}
+.sec-title,#stores{scroll-margin-top:90px}
 .note{font-size:15px;color:var(--ink2)}
 
 /* ---------- Speech bubble ---------- */
